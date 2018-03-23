@@ -12,6 +12,15 @@ tqdm = "*"
 pandas = "*"
 jupyter = "*"
 ipython = "*"
+"bs4" = "*"
+lxml = "*"
+"b6cfd29" = {file = "http://download.pytorch.org/whl/cpu/torch-0.3.1-cp36-cp36m-linux_x86_64.whl"}
+torchvision = "*"
+matplotlib = "*"
+scipy = "*"
+sklearn = "*"
+tensorboardx = "*"
+tensorflow = "*"
 
 
 [dev-packages]
